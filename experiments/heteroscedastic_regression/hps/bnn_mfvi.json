@@ -1,0 +1,8 @@
+{
+    "lr": 0.03632604660213877,
+    "bs": 265,
+    "burnin_epochs": 121,
+    "num_mc_samples_train": 7,
+    "num_mc_samples_test": 57,
+    "output_noise_scale": 0.5418165440069375
+}

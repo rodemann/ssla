@@ -1,0 +1,145 @@
+about-time==3.1.1
+absl-py==1.1.0
+alive-progress==2.4.1
+astunparse==1.6.3
+attrs==21.4.0
+autograd==1.5
+bayesian-torch==0.2.1
+brotlipy==0.7.0
+cachetools==5.2.0
+certifi==2022.6.15
+cffi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/croot-2p6q7e2r/cffi_1642701115063/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click==8.1.3
+cloudpickle==2.1.0
+cma==3.2.2
+cma-es==1.5.0
+colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
+conda==4.13.0
+conda-content-trust @ file:///tmp/build/80754af9/conda-content-trust_1617045594566/work
+conda-package-handling @ file:///opt/concourse/worker/volumes/live/0cf65687-72c2-4e51-5322-1b3a8c3aa6f5/volume/conda-package-handling_1649105815927/work
+cPython==0.0.6
+cryptography @ file:///opt/concourse/worker/volumes/live/a9ca20dd-e1fe-4ed3-754e-0db64082a5d2/volume/cryptography_1639414576087/work
+cycler==0.11.0
+Cython==0.29.30
+-e git+https://github.com/Farama-Foundation/d4rl.git@71a9549f2091accff93eeff68f1f3ab2c0e0a288#egg=D4RL
+decorator==4.4.2
+Deprecated==1.2.13
+dill==0.3.6
+dlib==19.24.0
+dm-control==1.0.10
+dm-env==1.6
+dm-tree==0.1.8
+dnspython==2.2.1
+etils==0.7.1
+face-alignment==1.3.5
+fasteners==0.17.3
+flatbuffers==22.10.26
+fonttools==4.33.3
+future==0.18.2
+gast==0.4.0
+glfw==2.5.4
+google-auth==2.9.1
+google-auth-oauthlib==0.4.6
+google-pasta==0.2.0
+grapheme==0.6.0
+graphviz==0.5.1
+grpcio==1.47.0
+gym==0.23.1
+gym-notices==0.0.7
+h5py==3.7.0
+idna @ file:///tmp/build/80754af9/idna_1637925883363/work
+imageio==2.19.3
+importlib-metadata==4.12.0
+importlib-resources==5.9.0
+imutils==0.5.4
+iniconfig==1.1.1
+jax==0.3.17
+jaxlib==0.3.15
+joblib==1.1.0
+keras==2.10.0
+Keras-Preprocessing==1.1.2
+kiwisolver==1.4.3
+labmaze==1.0.6
+largestinteriorrectangle==0.1.1
+libclang==14.0.6
+llvmlite==0.39.0
+loguru==0.6.0
+lxml==4.9.2
+lz4==4.0.2
+Markdown==3.4.1
+matlabengineforpython===R2021b
+matplotlib==3.5.3
+maturin==0.14.12
+MDP==3.6
+mjrl @ git+https://github.com/aravindr93/mjrl@3871d93763d3b49c4741e6daeaebbc605fe140dc
+mujoco==2.3.2
+mujoco-py==2.1.2.14
+networkx @ file:///home/conda/feedstock_root/build_artifacts/networkx_1617499744980/work
+neupy==0.6.5
+numba==0.56.0
+numpy==1.22.4
+oauthlib==3.2.0
+opencv-contrib-python==4.6.0.66
+opencv-python==4.6.0.66
+opt-einsum==3.3.0
+packaging==21.3
+pandas==1.4.2
+Pillow==9.1.1
+pluggy==1.0.0
+progressbar2==3.34.3
+protobuf==3.19.4
+py==1.11.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pybullet==3.2.5
+pycosat==0.6.3
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pygame==2.1.0
+pymongo==4.3.3
+pymoo==0.6.0.1
+PyOpenGL==3.1.6
+pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
+pyparsing==3.0.9
+PySocks @ file:///opt/concourse/worker/volumes/live/112288ac-9cb0-4e73-768b-13baf4ca6419/volume/pysocks_1605305820043/work
+pytest==7.0.1
+python-dateutil==2.8.2
+python-utils==3.3.3
+pytz==2022.1
+PyWavelets==1.3.0
+requests @ file:///opt/conda/conda-bld/requests_1641824580448/work
+requests-oauthlib==1.3.1
+rsa==4.8
+ruamel-yaml-conda @ file:///opt/concourse/worker/volumes/live/e81cf0fe-611a-498e-6e69-a7320057c1ac/volume/ruamel_yaml_1616016689696/work
+scallopy @ file:///Users/souradeep/Documents/Scallop_Reinforcement_Learning/code/scallop-v2/target/wheels/current/scallopy-0.1.7-cp39-cp39-macosx_10_7_x86_64.whl
+scikit-image==0.19.3
+scikit-learn==1.1.1
+scipy==1.8.1
+selective-search==1.1.0
+selectivesearch==0.4
+similaritymeasures==0.7.0
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+tableprint==0.7.1
+tensorboard==2.10.1
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+tensorflow==2.10.1
+tensorflow-estimator==2.10.0
+tensorflow-io-gcs-filesystem==0.27.0
+termcolor==2.1.0
+Theano==1.0.0
+threadpoolctl==3.1.0
+tifffile==2022.7.28
+tomli==2.0.1
+torch==1.11.0
+torchattacks==3.2.7
+torchaudio==0.11.0
+torchvision==0.12.0
+tqdm @ file:///opt/conda/conda-bld/tqdm_1647339053476/work
+typing_extensions==4.2.0
+urllib3 @ file:///opt/conda/conda-bld/urllib3_1643638302206/work
+Wand==0.6.8
+wcwidth==0.2.5
+Werkzeug==2.1.2
+wrapt==1.14.1
+zipp==3.8.1

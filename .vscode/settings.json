@@ -1,0 +1,42 @@
+{
+    "search.exclude": {
+      "**/node_modules": true,
+      "static": true
+    },
+    "[python]": {
+      "editor.defaultFormatter": "ms-python.black-formatter",
+      "editor.formatOnSave": true,
+      "editor.codeActionsOnSave": {
+        "source.organizeImports": "always",
+        "source.unusedImports": "always"
+      }
+    },
+    "isort.args":["--profile", "black"],
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.formatOnSave": true
+    },
+    "[markdown]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.formatOnSave": true,
+      "editor.unicodeHighlight.ambiguousCharacters": false,
+      "editor.unicodeHighlight.invisibleCharacters": false,
+      "diffEditor.ignoreTrimWhitespace": false,
+      "editor.wordWrap": "on",
+      "editor.quickSuggestions": {
+        "comments": "off",
+        "strings": "off",
+        "other": "off"
+      }
+    },
+    "python.formatting.provider": "none",
+    "black-formatter.args": ["-l 88"],
+    "python.testing.pytestArgs": ["."],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "terminal.integrated.env.windows": {
+      "PYTHONPATH": "${workspaceFolder}"
+    },
+    "pylint.enabled": false
+  }
+  

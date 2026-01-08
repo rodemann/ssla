@@ -1,0 +1,8 @@
+{
+    "lr": 0.04772281177306119,
+    "bs": 16,
+    "n_mc_samples_train": 7,
+    "n_mc_samples_test": 72,
+    "output_noise_scale": 1.7756366736905622,
+    "alpha": 0.46401413257920965
+}
